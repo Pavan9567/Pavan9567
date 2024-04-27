@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python full stack
 - 💞️ I’m looking to collaborate on various frontend and backend projects
-- 📫 You can reach me through the gmail pavank9567@gmail.com
+- 📫 You can reach out to me through the gmail pavank9567@gmail.com
 
 
 <!---
